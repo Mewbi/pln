@@ -6,6 +6,10 @@ All the information generated is sent to a Telegram Channel.
 
 This project was created to PLN (Processamento de Linguagem Natural) class.
 
+<p align="center">
+    <img src="./project.png">
+</p>
+
 ## 📂 Table of Contents
 
 1. [🛠️ Setup Instructions](#-setup-instructions)
@@ -54,6 +58,8 @@ Just run every step from Colab File
 
 Is expected in Telegram Channel messages like as the following example:
 
-IMG
+<p align="center">
+    <img src="./result.gif">
+</p>
 
-The following video show the project execution: LINK
+The following video show the project execution: https://youtu.be/HnOzImSo_IQ
